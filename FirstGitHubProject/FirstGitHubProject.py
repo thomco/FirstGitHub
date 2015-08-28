@@ -2,7 +2,7 @@
 class PHPGoAway:
     vdict = {}
     key = ''
-    alphabet = 'abcdefghijklmnopqrstuvwxyz!'
+    alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
     def __init__(self):
         pass
